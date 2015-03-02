@@ -15,7 +15,7 @@ h1, h2 {
 }
 
 .stats li {
-  display: inline;
+  display: inline-block;
   margin-right: 25px;
   letter-spacing: 0.5px;
   color: #a1a1a1;
